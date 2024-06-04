@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Test of MyKewlCode
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Hugh
+    family-names: Shanahan
+    name-suffix: Prof
+    email: Hugh.Shanahan@rhul.ac.uk
+    affiliation: 'Royal Holloway, University of London'
+    orcid: 'https://orcid.org/0000-0003-1374-6015'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.11468355
+abstract: This is some text
+keywords:
+  - Test
+license: GPL-3.0
+version: 1.0.0
+date-released: '2024-06-04'
